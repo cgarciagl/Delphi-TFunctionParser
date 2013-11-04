@@ -3,7 +3,7 @@
 * * * * * * * * * * * * * Parser of Functions Version 1.0 * * * * * * * * * *
 * _________________________________________________________
 
-Author: Carlos García Trujillo
+Author: Carlos Garcï¿½a Trujillo
 
 _________________________________________________________
 
@@ -48,7 +48,7 @@ The operators supported by this component are:
 
 --------------------------------------------------------------------
 
-Firstly, in the Propiedad Función, the string that it contains the function or
+Firstly, in the property Funciï¿½n, the string that it contains the function or
 expression to evaluate should be assigned, later calls himself to the method
 "Parse", if no error happens in the process of Parser, the value of the
 evaluated function will be returned in the ParseValor property, and if an
@@ -61,7 +61,7 @@ function to evaluate, you can use the event "OnPideVariable" which is an event
 that it is fired when the parser finds a variable and requests a numeric value
 to substitute it, the opposing variable spends as the oneVariable parameter,
 and the Value with which the variable should be substituted it is returned in
-the Parámetro value, another parameter is also included for to determine that
+the Parï¿½metro value, another parameter is also included for to determine that
 it is not a permissible variable, returning in the parameter "Found" a
 "False". The way that you define the code for this event will determine if the
 parser will be CaseSensitive or CaseInsensitive.
