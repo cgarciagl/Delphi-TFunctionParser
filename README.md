@@ -3,7 +3,7 @@
 * * * * * * * * * * * * * Parser of Functions Version 1.0 * * * * * * * * * *
 * _________________________________________________________
 
-Author: Carlos Garc�a Trujillo
+Author: Carlos García Trujillo
 
 _________________________________________________________
 
@@ -48,7 +48,7 @@ The operators supported by this component are:
 
 --------------------------------------------------------------------
 
-Firstly, in the property Funci�n, the string that it contains the function or
+Firstly, in the property Funcion, the string that it contains the function or
 expression to evaluate should be assigned, later calls himself to the method
 "Parse", if no error happens in the process of Parser, the value of the
 evaluated function will be returned in the ParseValor property, and if an
