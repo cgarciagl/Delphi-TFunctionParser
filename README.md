@@ -1,11 +1,9 @@
 ##TFunctionParser
 
-* * * * * * * * * * * * * Parser of Functions Version 1.0 * * * * * * * * * *
-* _________________________________________________________
+
 
 Author: Carlos García Trujillo
 
-_________________________________________________________
 
 May 25 1999
 
@@ -13,7 +11,6 @@ Xalapa, Veracruz; Mexico.
 
 Description:
 
----------------------------------------------------------
 
 This is a non visual component that can evaluate mathematical functions
 defined by the user on runtime.
@@ -98,5 +95,6 @@ it in your applications, alone please mentions my name in the documentation of
 your program, (if it is not a lot of nuisance), or send me a postcard of
 gratefulness.
 
+(Iknow i shouldn't put an exe on the repo, but it's for the purpouse that you can test it without having to install Delphi and GLScene 😉)
 
 : -)
